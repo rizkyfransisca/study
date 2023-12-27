@@ -35,3 +35,5 @@ UBAH DI MASTER
 ubah di dev
 
 ubah master
+
+ubah master part 2
