@@ -39,5 +39,3 @@ ubah master
 ubah master part 2
 
 kasjdkajdkajdkajdkjd
-
-Changed from dev again and again
